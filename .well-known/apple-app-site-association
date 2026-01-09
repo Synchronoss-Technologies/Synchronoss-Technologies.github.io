@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NXDQ3VB6JD.com.synchronoss.cloudtest",
+        "paths": [
+          "/collection/*"
+        ]
+      }
+    ]
+  }
+}
