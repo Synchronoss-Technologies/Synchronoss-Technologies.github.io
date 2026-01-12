@@ -13,6 +13,12 @@
         "paths": [
           "/invite/*"
         ]
+      },
+      {
+        "appID": "3RGL67FM32.com.sync.UniversalLinkTest",
+        "paths": [
+          "/invite/*"
+        ]
       }
     ]
   }
