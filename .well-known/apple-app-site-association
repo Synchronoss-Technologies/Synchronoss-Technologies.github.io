@@ -5,19 +5,19 @@
       {
         "appID": "9V34UGPY2M.com.synchronoss.spc",
         "paths": [
-          "/invite/*"
+          ""
+        ]
+      },
+      {
+        "appID": "3RGL67FM32.com.synchronoss.spc",
+        "paths": [
+          ""
         ]
       },
       {
         "appID": "NXDQ3VB6JD.com.synchronoss.cloudtest",
         "paths": [
-          "/invite/*"
-        ]
-      },
-      {
-        "appID": "3RGL67FM32.com.sync.UniversalLinkTest",
-        "paths": [
-          "/invite/*"
+          ""
         ]
       }
     ]
